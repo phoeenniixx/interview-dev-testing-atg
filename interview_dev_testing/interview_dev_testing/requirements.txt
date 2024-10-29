@@ -1,0 +1,10 @@
+langchain-core
+langchain-groq
+langchain-community
+langchain-openai
+openai
+streamlit
+streamlit-modal
+pyht
+pydantic
+streamlit-js-eval

@@ -1,0 +1,46 @@
+ML Engineer:
+- Machine Learning Algorithms
+- Data Preprocessing
+- Model Training and Evaluation
+- Feature Engineering
+- Programming Languages (Python, R)
+- Frameworks (TensorFlow, PyTorch)
+- Deployment and Scaling Models
+- Understanding of Big Data Tools (Spark, Hadoop)
+- Mathematics and Statistics
+- Model Optimization
+- Deep Learning
+- Version Control (Git)
+- Cloud Services (AWS, GCP, Azure)
+- MLOps Practices
+
+Data Analyst:
+- Data Cleaning and Preprocessing
+- Statistical Analysis
+- Data Visualization Tools (Tableau, Power BI)
+- SQL and Database Management
+- Programming Languages (Python, R)
+- Excel Proficiency
+- Business Intelligence
+- Data Warehousing Concepts
+- Reporting and Dashboarding
+- Data Mining Techniques
+- A/B Testing
+- Problem-Solving Skills
+- Data Governance and Compliance
+
+Gen AI Developer:
+- Natural Language Processing (NLP)
+- Generative Models (GANs, VAEs)
+- Programming Languages (Python, Java)
+- Frameworks (TensorFlow, PyTorch)
+- AI Ethics and Bias
+- Deep Learning Techniques
+- Prompt Engineering
+- API Integration
+- Cloud Services (AWS, GCP, Azure)
+- AI Model Deployment
+- Data Collection and Annotation
+- Model Fine-Tuning
+- Understanding of Transformer Architectures
+- Research and Development in AI
